@@ -25,7 +25,7 @@ This project implements a real-time dynamic pricing engine for 14 urban parking 
 
 This diagram shows the full flow from dataset to model output and rerouting decisions.
 
-![Architecture Diagram](screenshots/architecture diagram.png)
+![Architecture Diagram](screenshots/architecturediagram.png)
 
 ---
 
@@ -37,8 +37,8 @@ Below is a plot showing how prices change over time for the three models:
 - **Model 2**: Demand-Based Pricing (adds traffic, queue, events, vehicle type)  
 - **Model 3**: Competitive Pricing (adds nearby lot pricing and rerouting)
 
-![Summary Plot](screenshots/summary-plot-1.png)
-![Summary Plot](screenshots/summary-plot-2.png)
+![Summary Plot](screenshots/summaryplot1.png)
+![Summary Plot](screenshots/summaryplot2.png)
 
 ---
 
