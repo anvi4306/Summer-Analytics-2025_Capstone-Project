@@ -25,7 +25,7 @@ This project implements a real-time dynamic pricing engine for 14 urban parking 
 
 This diagram shows the full flow from dataset to model output and rerouting decisions.
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](screenshots/architecture diagram.png)
 
 ---
 
