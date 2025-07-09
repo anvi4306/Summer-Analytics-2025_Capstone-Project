@@ -68,5 +68,5 @@ Below is a plot showing how prices change over time for the three models:
 
 This repository is public and all outputs are included.  
 Notebook has been tested and renders correctly.  
-Submit this GitHub link for review.
+
 
