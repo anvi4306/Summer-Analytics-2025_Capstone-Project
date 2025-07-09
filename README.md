@@ -69,4 +69,9 @@ Below is a plot showing how prices change over time for the three models:
 This repository is public and all outputs are included.  
 Notebook has been tested and renders correctly.  
 
+📓 **Note:** If the notebook doesn’t appear properly on GitHub, you can view it here:
+- [View on nbviewer](https://nbviewer.org/github/anvi4306/Summer-Analytics-2025_Capstone-Project/blob/main/Anvi_SA2025_CAPSTONE.ipynb)
+- [Open in Colab](https://colab.research.google.com/drive/1iw0W8ObNKC_9UhtJMsEkKa_7TU7I6vqO?usp=sharing)
+
+
 
