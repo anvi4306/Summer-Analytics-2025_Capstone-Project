@@ -57,7 +57,7 @@ Below is a plot showing how prices change over time for the three models:
 
 | File | Description |
 |------|-------------|
-| `Capstone_SA2025_Anvi_Aggarwal.ipynb` | Final notebook with full code and outputs |
+| `Anvi_SA2025_CAPSTONE.ipynb` | Final notebook with full code and outputs |
 | `README.md` | Project overview |
 | `screenshots` | Contains architecture diagram and summary plot |
 | `dataset.csv` | Dataset used |
